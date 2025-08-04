@@ -8,7 +8,7 @@ It is a simulation of a restaurant website with full functionality for both **Ad
 
 ---
 
-## 🎯 Project Objectives
+#### 🎯 Project Objectives
 
 - Apply web programming skills (HTML, CSS, PHP, MySQL)
 - Build a dynamic, secure, and interactive restaurant website
